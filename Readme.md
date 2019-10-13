@@ -2,7 +2,7 @@
 Just a chat using Socket IO and Node JS (Express + EJS)<br/>
 
 ## Using
-Be sure you have Node JS installed and run:<br/>
+Be sure you have Node JS installed, access the folder and run:<br/>
 `npm i`<br/>
 `nodemon server.js`<br/><br/>
 
